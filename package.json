@@ -1,0 +1,14 @@
+{
+  "name": "vtech-ai",
+  "version": "1.0.0",
+  "description": "VtechAi adalah chatbot cerdas terbaru",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Farel Alfreza",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
