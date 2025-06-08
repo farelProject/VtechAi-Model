@@ -90,4 +90,4 @@ Gunakan Dengan Bijak
 
 ## 📄 Lisensi
 
-MIT © Farel Alfreza
+MIT © Farel Alfareza
