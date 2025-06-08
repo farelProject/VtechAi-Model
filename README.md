@@ -84,11 +84,7 @@ main();
 
 ## 📌 Catatan Keamanan
 
-API Key untuk Gemini saat ini masih tertanam langsung di package ini. Untuk penggunaan publik/luas, disarankan agar Anda:
-
-- Mengkloning project ini
-- Menggunakan API Key pribadi dari Google AI Studio
-- Menyimpannya di `.env` atau sebagai parameter opsional
+Gunakan Dengan Bijak
 
 ---
 
