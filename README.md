@@ -77,7 +77,7 @@ main();
 ## 📜 Tentang AI
 
 - Nama: **VtechAi**
-- Developer: **Farel Alfreza**
+- Developer: **Farel Alfareza**
 - Deskripsi: AI cerdas yang dapat menyapa pengguna dan menjawab dengan konteks personal.
 
 ---
