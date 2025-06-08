@@ -10,6 +10,10 @@
 npm install vtech-ai
 ```
 
+```
+npm install vtech-ai@1.0.0
+```
+
 ---
 
 ## 📦 Penggunaan Dasar
