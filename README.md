@@ -10,10 +10,6 @@
 npm install vtech-ai
 ```
 
-```
-npm install vtech-ai@1.0.0
-```
-
 ---
 
 ## 📦 Penggunaan Dasar
@@ -77,7 +73,7 @@ main();
 ## 📜 Tentang AI
 
 - Nama: **VtechAi**
-- Developer: **Farel Alfareza**
+- Developer: **Farel Alfreza**
 - Deskripsi: AI cerdas yang dapat menyapa pengguna dan menjawab dengan konteks personal.
 
 ---
@@ -88,6 +84,15 @@ Gunakan Dengan Bijak
 
 ---
 
+# Dokumentasi
+
+Gambar
+
+![Petunjuk](https://pomf2.lain.la/f/ozqkxnmi.png "Gambar 1")
+![Petunjuk](https://pomf2.lain.la/f/bpdixaf.png "Gambar 1")
+![Petunjuk](https://pomf2.lain.la/f/5as6fkx.png "Gambar 1")
+
+
 ## 📄 Lisensi
 
-MIT © Farel Alfareza
+MIT © Farel Alfreza
